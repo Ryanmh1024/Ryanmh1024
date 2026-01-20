@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am an undergraduate student at [University of Virginia School of Data Science](https://datascience.virginia.edu/degrees/bsds)
+
 <!--
 **Ryanmh1024/Ryanmh1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
