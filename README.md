@@ -1,6 +1,9 @@
-## Hi there 👋
+# Ryan Healy
 
-I am an undergraduate student at [University of Virginia School of Data Science](https://datascience.virginia.edu/degrees/bsds)
+I'm a **Second Year** studying at the [University of Virginia School of Data Science](https://datascience.virginia.edu/degrees/bsds) where I've built foundational Data Science skills including Python, GitHub, data wrangling, data cleaning, exploratory data analysis, data visualization, Flourish, linear algebra, calculus, and collaboration with colleagues for Data Science projects.
+
+My main field of interest is Data Analysis and Visualization, preferably in a Business or Education domain (although I am interested in the Sports domain as well).
+- Relevant project with [Anachart](anachart.com) through the [SDS Micro-Internship program](https://datascience.virginia.edu/pages/stephenson-experiential-leadership-fund-self) during UVA's J-Term called Stock Price Target and Ratings Analysis and Insights where my team delved into the relationship between stock analyst price target aggressiveness and average days to reach price target among tech companies in the NASDAQ-100.
 
 <!--
 **Ryanmh1024/Ryanmh1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
